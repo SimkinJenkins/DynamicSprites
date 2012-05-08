@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/EtniaVirtualWorld/!svn/ver/1173/branches/v1_0/complementSrc/3DEngine&DynamicSprites/net/etnia/core/controls/structures
+END
+IDynamicSpriteData.as
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/EtniaVirtualWorld/!svn/ver/1173/branches/v1_0/complementSrc/3DEngine&DynamicSprites/net/etnia/core/controls/structures/IDynamicSpriteData.as
+END
+DynamicImageData.as
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/EtniaVirtualWorld/!svn/ver/1035/branches/v1_0/complementSrc/3DEngine&DynamicSprites/net/etnia/core/controls/structures/DynamicImageData.as
+END
+DynamicTextInputData.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/EtniaVirtualWorld/!svn/ver/1090/branches/v1_0/complementSrc/3DEngine&DynamicSprites/net/etnia/core/controls/structures/DynamicTextInputData.as
+END
+DynamicSpriteData.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/EtniaVirtualWorld/!svn/ver/1027/branches/v1_0/complementSrc/3DEngine&DynamicSprites/net/etnia/core/controls/structures/DynamicSpriteData.as
+END
+CanvasData.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/EtniaVirtualWorld/!svn/ver/1089/branches/v1_0/complementSrc/3DEngine&DynamicSprites/net/etnia/core/controls/structures/CanvasData.as
+END
+DynamicCanvasData.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/EtniaVirtualWorld/!svn/ver/1089/branches/v1_0/complementSrc/3DEngine&DynamicSprites/net/etnia/core/controls/structures/DynamicCanvasData.as
+END
